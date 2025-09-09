@@ -21,4 +21,6 @@ Pandas – Data cleaning and aggregation
 
 Matplotlib – Data visualization
 
+SQL (MySQL / PostgreSQL compatible)
+
 (Optional: Seaborn / Plotly for advanced dashboards)
